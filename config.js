@@ -1,4 +1,4 @@
-global.owner = ['34698901397']
+global.owner = ['994405380645']
 global.mods = ['TU NUMERO AQUI'] 
 global.prems = []
 global.APIs = { 
